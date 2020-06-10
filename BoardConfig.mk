@@ -27,5 +27,5 @@
 -include device/huawei/hi6250-common/BoardConfigCommon.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := warsaw,hi6250
+TARGET_OTA_ASSERT_DEVICE := prague,hi6250
 

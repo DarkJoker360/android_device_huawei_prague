@@ -15,4 +15,4 @@
 # Please maintain this if you use this script or any part of it
 #
 
-add_lunch_combo omni_warsaw-eng
+add_lunch_combo omni_prague-eng
